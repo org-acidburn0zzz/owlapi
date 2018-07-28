@@ -9,7 +9,6 @@ org.obolibrary.oboformat.model
 org.obolibrary.oboformat.parser
 org.obolibrary.oboformat.writer
 org.obolibrary.owl
-org.semanticweb.owlapi
 org.semanticweb.owlapi.annotations
 org.semanticweb.owlapi.apibinding
 org.semanticweb.owlapi.atomicdecomposition
@@ -60,6 +59,7 @@ org.semanticweb.owlapi.reasoner.structural
 org.semanticweb.owlapi.search
 org.semanticweb.owlapi.util
 org.semanticweb.owlapi.util.mansyntax
+org.semanticweb.owlapi.utilities
 org.semanticweb.owlapi.vocab
 org.semanticweb.owlapitools.builders
 org.semanticweb.owlapitools.decomposition

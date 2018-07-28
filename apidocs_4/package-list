@@ -58,6 +58,7 @@ org.semanticweb.owlapi.reasoner.structural
 org.semanticweb.owlapi.search
 org.semanticweb.owlapi.util
 org.semanticweb.owlapi.util.mansyntax
+org.semanticweb.owlapi.utilities
 org.semanticweb.owlapi.vocab
 org.semanticweb.owlapitools.builders
 uk.ac.manchester.cs
